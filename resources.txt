@@ -1,0 +1,3 @@
+Visual Code Studio download https://code.visualstudio.com/download
+Node Download https://nodejs.org/en/download/
+Discord.js documentation and homepage ( https://discord.js.org/ ), ( https://discord.js.org/#/docs/main/v11/general/welcome )
