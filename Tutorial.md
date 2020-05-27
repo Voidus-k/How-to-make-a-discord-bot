@@ -19,8 +19,7 @@ This will add a new Bot to your already existing application.
 * A good text editor (optional but recommended for understanding the code better)
 ^^ I use Sublime Text 3 (free without registration) or Visual Studio Code (free and very good but resource-heavy to small computers)
 
-(Grouped)
-* Install JavaScript
+
 * Install Node.js
 
 And that is pretty much all for the requirements and downloads.
