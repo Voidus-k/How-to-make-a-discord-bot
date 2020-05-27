@@ -11,5 +11,5 @@ My bot uses Discord.JS v11 (and may change later). Please notify me of any bugs 
 +	Get somebodies avater.
 
 !	Usage: void.avatar @Voidus_k#8707
-		   void.avatar 19290940112023(ID)
+!		void.avatar 19290940112023(ID)
 ```
