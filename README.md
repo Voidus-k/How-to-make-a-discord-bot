@@ -1,8 +1,9 @@
-## Void Docuentation and code
+## Void Documentation and Code
 
 You can use this repository to find documentation on my Discord bot "Void", or just copy some of the code for your bot.
 
 My bot uses Discord.JS v11 (and may change later). Please notify me of any bugs on Discord: Voidus_k#8707
+(or just contact my staff team with invite https://discord.gg/u8MU6b3)
 
 
 **DOCS**
@@ -11,5 +12,5 @@ My bot uses Discord.JS v11 (and may change later). Please notify me of any bugs 
 +	Get somebodies avater.
 
 !	Usage: void.avatar @Voidus_k#8707
-!		void.avatar 19290940112023(ID)
+!	 void.avatar 19290940112023(ID)
 ```
