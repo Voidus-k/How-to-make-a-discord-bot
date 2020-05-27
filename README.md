@@ -6,8 +6,10 @@ My bot uses Discord.JS v11 (and may change later). Please notify me of any bugs 
 
 
 **DOCS**
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `avatar`
-	Get somebodies avater.
+```diff
+- `avatar`
++	Get somebodies avater.
 
-	Usage: void.avatar @Voidus_k#8707
+!	Usage: void.avatar @Voidus_k#8707
 		   void.avatar 19290940112023(ID)
+```
